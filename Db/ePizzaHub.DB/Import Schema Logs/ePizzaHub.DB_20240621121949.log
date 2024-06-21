@@ -1,0 +1,88 @@
+6/21/2024 3:19:49 AM	This log contains information about the import schema operation into project 'ePizzaHub.DB' on computer 'KHWAQAS' by user 'khwaq'.
+6/21/2024 3:19:50 AM	Import of database schema has started.
+6/21/2024 3:20:04 AM	Gathering database credentials
+6/21/2024 3:20:04 AM	Gathering database options
+6/21/2024 3:20:04 AM	Gathering generic database scoped configuration option
+6/21/2024 3:20:04 AM	Gathering users
+6/21/2024 3:20:04 AM	Gathering roles
+6/21/2024 3:20:04 AM	Gathering application roles
+6/21/2024 3:20:04 AM	Gathering role memberships
+6/21/2024 3:20:04 AM	Gathering filegroups
+6/21/2024 3:20:04 AM	Gathering full-text catalogs
+6/21/2024 3:20:04 AM	Gathering assemblies
+6/21/2024 3:20:04 AM	Gathering certificates
+6/21/2024 3:20:04 AM	Gathering asymmetric keys
+6/21/2024 3:20:04 AM	Gathering symmetric keys
+6/21/2024 3:20:04 AM	Gathering encrypted symmetric keys
+6/21/2024 3:20:04 AM	Gathering schemas
+6/21/2024 3:20:04 AM	Gathering XML schema collections
+6/21/2024 3:20:04 AM	Gathering user-defined data types
+6/21/2024 3:20:04 AM	Gathering user-defined types
+6/21/2024 3:20:04 AM	Gathering table types
+6/21/2024 3:20:04 AM	Gathering unique keys for table types
+6/21/2024 3:20:04 AM	Gathering primary keys for table types
+6/21/2024 3:20:05 AM	Gathering indexes for table types
+6/21/2024 3:20:05 AM	Gathering check constraints for table types
+6/21/2024 3:20:05 AM	Gathering default constraints for table types
+6/21/2024 3:20:05 AM	Gathering partition functions
+6/21/2024 3:20:05 AM	Gathering partition schemes
+6/21/2024 3:20:05 AM	Gathering functions
+6/21/2024 3:20:05 AM	Gathering encrypted functions
+6/21/2024 3:20:05 AM	Gathering aggregates
+6/21/2024 3:20:05 AM	Gathering procedures
+6/21/2024 3:20:05 AM	Gathering encrypted procedures
+6/21/2024 3:20:05 AM	Gathering tables
+6/21/2024 3:20:05 AM	Gathering primary keys
+6/21/2024 3:20:05 AM	Gathering unique constraints
+6/21/2024 3:20:05 AM	Gathering foreign keys
+6/21/2024 3:20:05 AM	Gathering default constraints
+6/21/2024 3:20:05 AM	Gathering check constraints
+6/21/2024 3:20:05 AM	Gathering views
+6/21/2024 3:20:05 AM	Gathering encrypted views
+6/21/2024 3:20:05 AM	Gathering indexes
+6/21/2024 3:20:05 AM	Gathering statistics
+6/21/2024 3:20:05 AM	Gathering full-text index stoplists
+6/21/2024 3:20:05 AM	Gathering search property lists
+6/21/2024 3:20:05 AM	Gathering search properties
+6/21/2024 3:20:05 AM	Gathering full-text indexes
+6/21/2024 3:20:05 AM	Gathering column store indexes
+6/21/2024 3:20:05 AM	Gathering spatial indexes
+6/21/2024 3:20:05 AM	Gathering XML indexes
+6/21/2024 3:20:05 AM	Gathering Selective XML indexes
+6/21/2024 3:20:05 AM	Gathering encrypted triggers
+6/21/2024 3:20:05 AM	Gathering triggers
+6/21/2024 3:20:05 AM	Gathering encrypted and clr ddl triggers
+6/21/2024 3:20:05 AM	Gathering ddl triggers
+6/21/2024 3:20:05 AM	Creating edge constraints
+6/21/2024 3:20:05 AM	Gathering synonyms
+6/21/2024 3:20:05 AM	Gathering defaults
+6/21/2024 3:20:05 AM	Gathering data constraint uddt bindings
+6/21/2024 3:20:05 AM	Gathering rules
+6/21/2024 3:20:05 AM	Gathering data constraint uddt bindings
+6/21/2024 3:20:05 AM	Gathering message types
+6/21/2024 3:20:05 AM	Gathering queues
+6/21/2024 3:20:05 AM	Gathering contracts
+6/21/2024 3:20:05 AM	Gathering services
+6/21/2024 3:20:05 AM	Gathering event notifications
+6/21/2024 3:20:05 AM	Gathering remote service bindings
+6/21/2024 3:20:05 AM	Gathering broker priorities
+6/21/2024 3:20:05 AM	Gathering signatures
+6/21/2024 3:20:05 AM	Gathering compression options
+6/21/2024 3:20:05 AM	Gathering sequence types
+6/21/2024 3:20:05 AM	Gathering security policies
+6/21/2024 3:20:05 AM	Gather column encryption keys
+6/21/2024 3:20:05 AM	Gathering column master keys
+6/21/2024 3:20:05 AM	Gathering external data sources
+6/21/2024 3:20:05 AM	Gathering external file formats
+6/21/2024 3:20:05 AM	Gathering external tables
+6/21/2024 3:20:05 AM	Gathering XML index compression options
+6/21/2024 3:20:05 AM	Gathering extended properties
+6/21/2024 3:20:05 AM	Gathering assemblies
+6/21/2024 3:20:05 AM	Gathering credentials
+6/21/2024 3:20:05 AM	Gathering logins
+6/21/2024 3:20:05 AM	Gathering server audits
+6/21/2024 3:20:06 AM	Scanning project for duplicate elements
+6/21/2024 3:20:07 AM	Finished duplicate element processing
+6/21/2024 3:20:07 AM	Finished importing database.
+6/21/2024 3:20:07 AM	A summary of the import was saved to the following location: C:\Projects\GitRepo\Db\ePizzaHub.DB\Import Schema Logs\ePizzaHub.DB_20240621121949.log
+6/21/2024 3:20:07 AM	Click Finish to continue...
